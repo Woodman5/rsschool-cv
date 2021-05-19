@@ -1,3 +1,4 @@
+![Yury's photo](https://raw.githubusercontent.com/Woodman5/rsschool-cv/gh-pages/img/YD_square_300.jpg "Yury's photo")
 # Yury Derevyannykh
 Frontend Developer  
 
@@ -8,7 +9,7 @@ Moscow, Russia
 Phone: +7 (985) 270-6323  
 Email: [youriywoodman@gmail.com](mailto:youriywoodman@gmail.com)  
 Telegram: [@YuryWoodman](tg://resolve?domain=YuryWoodman)  
-Github: [https://github.com/Woodman5](https://github.com/Woodman5)  
+Github: <https://github.com/Woodman5>   
 
 
 ## Summary
@@ -28,6 +29,7 @@ SQLite, PostgreSQL
 PyCharm, WebStorm, VS Code, Sublime
 ###### Others
 Git, Photoshop, Illustrator, CAD apps
+
 
 ## Projects
 1. [Solidworks](https://github.com/Woodman5/solidworks)  
@@ -59,15 +61,24 @@ Git, Photoshop, Illustrator, CAD apps
 
 
 ## Soft skills
-
+- Managing a department of 13 engineers for over 6 years
+- Participation in negotiations with customers, write and appruval for technical specification and documentation
+- Tasks coordination between different departments of the company
+- Managing several projects in parallel, mentor my colleagues
 
 
 ## Education
+2020, Udemy, Vue - The Complete Guide  
+2019, Harvard University, Computer Science CS-50 online course
 
+1996-2002, Moscow State University of Technology Stankin, Design engineer
 
 
 ## Experience
-
+12/2014 - today (6y 6m), NCC ltd., Head of Design Department  
+02/2013 - 12/2014 (1y 10m), ArtUP Studio, Lead Design Engineer  
+01/2012 - 02/2013 (1y 1m), Renault Russia, Process Engineer  
+03/2002 - 01/2012 (9y 10 m). Politermo ltd., Design Engineer 
 
 
 ## Langs
@@ -76,3 +87,4 @@ English - B2
 
 
 ## Additional info
+I am fluent in manufacturing and production planning of various products from small parts to cars and planes by different technologies: machining, stamping, casting, composite materials, etc. 
