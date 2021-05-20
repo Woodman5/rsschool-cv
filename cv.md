@@ -32,7 +32,7 @@ Git, Photoshop, Illustrator, CAD apps
 
 
 ## Projects
-1. [Solidworks](https://github.com/Woodman5/solidworks)  
+1. [Handrails calc](https://github.com/Woodman5/ncc_calc)  
 
    Product configuration calculation in the GUI, generation of 3D assembly model and technological files.
 
