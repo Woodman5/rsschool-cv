@@ -1,0 +1,105 @@
+body {
+  background: #eee;
+  font-family: "Montserrat", sans-serif;
+  margin: 0;
+
+  font-size: 14px;
+  line-height: 1;
+  color: #444;
+}
+
+.nunito {
+  font-family: "Nunito", sans-serif;
+}
+
+.light,
+a {
+  color: #eee;
+}
+
+a {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+.container {
+  /* height: 980px; */
+  width: 700px;
+  margin: 20px auto;
+  background: #fff;
+  /* border-radius: 8px; */
+  box-shadow: 0 5px 5px 2px #999;
+  display: flex;
+  justify-content: space-between;
+}
+
+.left-column {
+  width: 35%;
+  background: #444;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.right-column {
+  width: 65%;
+  padding: 45px 20px 10px 40px;
+}
+
+.job-tittle,
+.name,
+.left-tittle {
+  text-transform: uppercase;
+}
+.name h1 {
+  margin: 0;
+}
+
+.job-tittle {
+  font-size: 18px;
+}
+
+.circle {
+  width: 150px;
+  height: 150px;
+  border-radius: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  margin-top: 45px;
+}
+
+.circle img {
+  width: 150px;
+  margin-top: 50px;
+}
+
+.left-block {
+  font-size: 14px;
+  width: 100%;
+  padding-left: 20px;
+  margin-top: 30px;
+}
+
+.left-tittle {
+  font-family: "Montserrat", sans-serif;
+  font-size: 14px;
+  border-bottom: 2px solid #fff;
+  line-height: 2;
+}
+
+.left-block i {
+  position: relative;
+  top: 2px;
+  margin-right: 10px;
+  font-size: 16px;
+}
