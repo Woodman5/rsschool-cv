@@ -1,0 +1,158 @@
+body {
+  margin: 0;
+  font-family: "Montserrat", sans-serif;
+  font-size: 14px;
+  line-height: 1;
+  color: #444444;
+  background: #eee;
+}
+
+.dark {
+  color: #444444;
+}
+
+.nunito {
+  font-family: "Nunito", sans-serif;
+  line-height: 1.4;
+}
+
+.light,
+a {
+  color: #eeeeee;
+}
+
+a {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+.page {
+  width: 900px;
+  margin: 20px auto;
+  display: flex;
+  flex-direction: column;
+}
+
+.container {
+  background: #ffffff;
+  box-shadow: 0 5px 5px 2px #999999;
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer {
+  margin: 30px 0 0 0;
+  padding: 0;
+  display: flex;
+  justify-content: space-evenly;
+  line-height: 31px;
+  text-align: center;
+}
+
+.left-column {
+  width: 35%;
+  background: #444444;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.left-section {
+  width: 100%;
+}
+.right-column {
+  width: 65%;
+  padding: 45px 20px 10px 40px;
+}
+
+.job-tittle,
+.name,
+.left-tittle,
+.right-tittle {
+  text-transform: uppercase;
+}
+.name h1 {
+  margin: 0;
+}
+
+.job-tittle {
+  font-size: 18px;
+}
+
+.circle {
+  width: 150px;
+  height: 150px;
+  margin-top: 45px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  border-radius: 100%;
+}
+
+.circle img {
+  width: 150px;
+  margin-top: 50px;
+}
+
+.left-block {
+  width: 100%;
+  padding-left: 20px;
+  margin-top: 20px;
+  font-size: 14px;
+}
+
+.left-tittle,
+.right-tittle {
+  font-family: "Montserrat", sans-serif;
+  font-size: 14px;
+  line-height: 2;
+}
+
+.left-tittle {
+  border-bottom: 2px solid #ffffff;
+}
+
+.left-block i {
+  position: relative;
+  top: 2px;
+  margin-right: 10px;
+  font-size: 16px;
+}
+
+.left-block p, ul {
+  margin-right: 20px;
+  margin-top: 0
+}
+
+.left-block p {
+  margin-left: 10px;
+}
+
+.left-block h3,
+.prj-tittle {
+  margin-bottom: 5px;
+  font-weight: normal;
+  text-transform: uppercase;
+}
+
+.right-tittle {
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+
+.right-column ol {
+  padding-left: 18px;
+}
+
+.list {
+  list-style-type: disc;
+}
