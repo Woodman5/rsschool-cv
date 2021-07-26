@@ -8,8 +8,13 @@ body {
   color: #444;
 }
 
+.dark {
+  color: #444;
+}
+
 .nunito {
   font-family: "Nunito", sans-serif;
+  line-height: 1.4;
 }
 
 .light,
@@ -32,7 +37,7 @@ a:hover {
 
 .container {
   /* height: 980px; */
-  width: 700px;
+  width: 900px;
   margin: 20px auto;
   background: #fff;
   /* border-radius: 8px; */
@@ -56,7 +61,8 @@ a:hover {
 
 .job-tittle,
 .name,
-.left-tittle {
+.left-tittle,
+.right-tittle {
   text-transform: uppercase;
 }
 .name h1 {
@@ -87,14 +93,17 @@ a:hover {
   font-size: 14px;
   width: 100%;
   padding-left: 20px;
-  margin-top: 30px;
+  margin-top: 20px;
+}
+
+.left-tittle, .right-tittle {
+  font-family: "Montserrat", sans-serif;
+  font-size: 14px;
+  line-height: 2;
 }
 
 .left-tittle {
-  font-family: "Montserrat", sans-serif;
-  font-size: 14px;
   border-bottom: 2px solid #fff;
-  line-height: 2;
 }
 
 .left-block i {
@@ -103,3 +112,34 @@ a:hover {
   margin-right: 10px;
   font-size: 16px;
 }
+
+.left-block p, ul {
+  margin-right: 20px;
+  margin-top: 0
+}
+
+.left-block p {
+  margin-left: 10px;
+}
+
+.left-block h3 {
+  font-weight: normal;
+  text-transform: uppercase;
+  margin-bottom: 5px;
+}
+
+.right-tittle {
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+
+.prj-tittle {
+  font-weight: normal;
+  text-transform: uppercase;
+  margin-bottom: 5px;
+}
+
+.right-column ol {
+  padding-left: 18px;
+}
+
