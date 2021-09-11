@@ -35,7 +35,7 @@ a:hover {
 }
 
 .page {
-  width: 900px;
+  width: 1000px;
   margin: 20px auto;
   display: flex;
   flex-direction: column;
@@ -58,7 +58,7 @@ a:hover {
 }
 
 .left-column {
-  width: 35%;
+  width: 30%;
   background: #444444;
   display: flex;
   flex-direction: column;
@@ -69,7 +69,7 @@ a:hover {
   width: 100%;
 }
 .right-column {
-  width: 65%;
+  width: 70%;
   padding: 45px 20px 10px 40px;
 }
 
