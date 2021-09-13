@@ -1,6 +1,6 @@
 ![Yury's photo](https://raw.githubusercontent.com/Woodman5/rsschool-cv/gh-pages/img/YD_square_300.jpg "Yury's photo")
 # Yury Derevyannykh
-Frontend Developer  
+Software Developer  
 
 
 ## Contact info
